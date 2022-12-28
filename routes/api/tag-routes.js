@@ -58,7 +58,7 @@ router.put('/:id', async (req, res) => {
       }
     )
     return res.json(updatedTag);
-  } catch {
+  } catch(err) {
     console.log(err);
     res.json(err);
   }
