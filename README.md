@@ -56,7 +56,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
  ## License
 
-  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever/e-commerce-back-end  **Note** This application is under the [MIT](https://MIT-license.org)
+  Copyright (c) 2022 [GitHub](https://github.com/jaya4ever/e-commerce-back-end)  **Note** This application is under the [MIT](https://MIT-license.org)
 
 
 
