@@ -39,10 +39,9 @@ THEN I am able to successfully create, update, and delete data in my database
  * npm install sequelize
  * npm install dotenv
 
- ## Usage 
- ### First Run the following command at the root of your project and enter password
+ # Usage 
+ ### First Run the following command at the root of your project and enter password and follow steps
  * mysql -u root -p
- ### After enter your passwod then 
  * source db/schema.sql
  * quit
  * npm run seed 
